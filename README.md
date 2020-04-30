@@ -1,6 +1,9 @@
 # play
 training at local env
 
+## Google Colab
+webcam_tf1_14.ipynbを起動する  
+
 ## Requirements
 Python3.7  
 
